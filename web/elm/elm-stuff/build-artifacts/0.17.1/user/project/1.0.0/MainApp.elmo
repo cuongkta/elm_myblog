@@ -1,0 +1,3 @@
+var _user$project$MainApp$main = {
+	main: _elm_lang$html$Html$text('Start from here')
+};
